@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n10
+head -3 iacta|taill -3 iacta
